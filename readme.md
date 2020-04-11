@@ -8,3 +8,4 @@
 <br>
 `git push origin master`
 <br>
+`git checkout -b "develop"`
